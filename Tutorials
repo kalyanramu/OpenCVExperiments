@@ -3,3 +3,10 @@ Good OpenCV Tutorials:
 
 1. Drawing Contours and it's details:
 https://docs.opencv.org/3.1.0/dd/d49/tutorial_py_contour_features.html
+
+2. Drawing common shapes such as Rectangles, circles, polygon etc.,
+https://docs.opencv.org/3.1.0/dc/da5/tutorial_py_drawing_functions.html
+
+3. Defining circles, rectangles from contours:
+https://docs.opencv.org/3.1.0/dd/d49/tutorial_py_contour_features.html
+
